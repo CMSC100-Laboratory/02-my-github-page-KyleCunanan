@@ -1,0 +1,116 @@
+/* General styles for the entire document */
+
+body { /*body styling*/
+    font-family: Arial, sans-serif; 
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {  /* header section styling */
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header .logo img { /* logo inside header */
+    height: 80px;
+}
+
+header nav ul { /* nav bar styling */
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul li {  /* dsiplay nav link inline */
+    display: inline;
+    margin: 0 15px;
+}
+
+header nav ul li a { /*styling for nav links */
+    color: #fff;
+    text-decoration: none;
+}
+
+#featured-photo { /* featured photo section */
+    text-align: center;
+    margin: 20px 0;
+}
+
+#featured-photo img {  /* featured photo image styling */
+    max-width: 70%;
+    height: auto;
+}
+
+section {  /* general styling for sections */
+    padding: 20px;
+    margin: 10px 0;
+    border-bottom: 1px solid #706666;
+}
+
+section h2 {
+    color: #333; 
+    text-align: center; 
+}
+
+
+section #skills ul { /* Skills section styling */
+    list-style-type: none; 
+    padding: 0; 
+    text-align: center; 
+}
+
+
+section #skills ul li { /* Skills list items */
+    margin: 5px 0; 
+}
+
+
+.project {  /* Project section styling */
+    margin: 20px 0; 
+}
+
+
+.project h3 {   /* Project titles */
+    color: #333; 
+}
+
+footer {   /* footer styling */
+    background-color: #333; 
+    color: #fff; 
+    text-align: center; 
+    padding: 20px 0; 
+}
+
+footer .footer-content {  /* Footer content layout */
+
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+}
+
+footer .footer-content .logo img {   /* Footer logo */
+
+    height: 70px;
+    margin-right: 10px; 
+}
+
+footer .contact-info p {  /* Footer contact information */
+
+    margin: 5px 0; 
+}
+
+footer p {   /* Footer text styling */
+
+    margin: 10px 0 0 0; 
+}
+
+
+.back-to-top {   /* Back to Top link styling */
+    display: block; 
+    margin-top: 10px; 
+    color: #fff; 
+    text-decoration: none; 
+}
