@@ -3,8 +3,7 @@
 
 Kyle Cunanan 
 BS Computer Science 
-[Visit My Portfolio] (https://kylecunanan.github.io/01-first-repo-KyleCunanan/
-) 
+[Visit My Portfolio] (https://cmsc100-laboratory.github.io/02-my-github-page-KyleCunanan/) 
 
 
 # Steps on how to create GitHub page #
